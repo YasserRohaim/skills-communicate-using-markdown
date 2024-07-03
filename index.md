@@ -7,3 +7,7 @@
 x=[i for i in range(1000)]
 print(x)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
